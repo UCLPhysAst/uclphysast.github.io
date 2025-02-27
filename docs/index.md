@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Computing and IT Documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This site will contain user documentation for those working in the [Department of Physics and Astronomy](https://www.ucl.ac.uk/physics-astronomy/) at [UCL](https://www.ucl.ac.uk/).
 
-## Commands
+## Systems
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* What we have.
 
-## Project layout
+## Support
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
++ Who to contact.

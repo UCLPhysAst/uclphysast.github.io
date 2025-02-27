@@ -1,1 +1,3 @@
-site_name: My Docs
+site_name: UCL Department of Physics and Astronomy
+theme:
+  name: material
