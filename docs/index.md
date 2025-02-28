@@ -9,5 +9,5 @@ This site will contain user documentation for those working in the [Department o
 ## Clusters
 
 + [Hypatia](clusters/hypatia.md)
-- [DIAS](dias.md)
+- [DIAS](clusters/dias.md)
 - Research group clusters
