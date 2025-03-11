@@ -2,3 +2,20 @@ site_name: UCL Department of Physics and Astronomy
 theme:
   name: material
 copyright: Copyright &copy; 2025 UCL Department of Physics and Astronomy
+
+nav:
+  - Home:   index.md
+  - Research Groups:
+    - AMOPP:  amopp
+    - Astro:  astro
+    - BioP:   biop
+    - CMMP:   cmmp
+    - HEP:    hep
+  - Teaching and Learning: teaching
+  - Professional Services:  ps
+  - Clusters:
+    - Home: clusters
+    - DIAS: clusters/dias
+    - Hypatia:  clusters/hypatia
+    - Research group clusters: clusters/group
+    - UCL clusters: clusters/arc
