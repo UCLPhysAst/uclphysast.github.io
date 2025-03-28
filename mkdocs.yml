@@ -2,20 +2,22 @@ site_name: UCL Department of Physics and Astronomy
 theme:
   name: material
 copyright: Copyright &copy; 2025 UCL Department of Physics and Astronomy
+repo_url: https://github.com/UCLPhysAst/uclphysast.github.io
 
 nav:
   - Home:   index.md
   - Research Groups:
-    - AMOPP:  amopp
-    - Astro:  astro
-    - BioP:   biop
-    - CMMP:   cmmp
-    - HEP:    hep
-  - Teaching and Learning: teaching
-  - Professional Services:  ps
+    - AMOPP:  amopp/index.md
+    - Astro:  astro/index.md
+    - BioP:   biop/index.md
+    - CMMP:   cmmp/index.md
+    - HEP:    hep/index.md
+  - Teaching and Learning: teaching/index.md
+  - Professional Services:  ps/index.md
   - Clusters:
-    - Home: clusters
-    - DIAS: clusters/dias
-    - Hypatia:  clusters/hypatia
-    - Research group clusters: clusters/group
-    - UCL clusters: clusters/arc
+    - Home: clusters/index.md
+    - DIAS: clusters/dias.md
+    - Hypatia:  clusters/hypatia.md
+    - Research group clusters: clusters/group.md
+    - UCL clusters: clusters/arc.md
+  - Contacts: contacts.md
