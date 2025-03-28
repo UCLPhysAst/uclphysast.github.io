@@ -20,4 +20,5 @@ nav:
     - Hypatia:  clusters/hypatia.md
     - Research group clusters: clusters/group.md
     - UCL clusters: clusters/arc.md
+  - Guides and Training: training/index.md 
   - Contacts: contacts.md
