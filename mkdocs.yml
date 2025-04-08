@@ -12,7 +12,9 @@ nav:
     - BioP:   biop/index.md
     - CMMP:   cmmp/index.md
     - HEP:    hep/index.md
-  - Teaching and Learning: teaching/index.md
+  - Teaching and Learning:
+    - Teaching Labs: teaching/labs.md
+    - UCL Observatory: teaching/uclo.md
   - Professional Services:  ps/index.md
   - Clusters:
     - Home: clusters/index.md
