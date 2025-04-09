@@ -18,14 +18,14 @@ General User Information:
 
 - [Getting an Account](account-services.md)
 - [Guide for New Users](new-users.md)
-<!-- - [Software List](Cluster/Theory/software-list.md)
-- [Planned Outages](planned-outages.md) -->
+- [Software List](Cluster/Theory/software-list.md)
+- [Planned Outages](planned-outages.md)
 
-<!-- #Clusters:
-#
-#- [Theory](Clusters/Theory/index.md)
-#- [BIOP] (Clusters/Biop/index.md)
- -->
+Clusters:
+<!-->
+- [Theory](Clusters/Theory/index.md)
+- [BIOP] (Clusters/Biop/index.md)
+-->
 # Support
 
 !!! Please ensure to include your research group or your PI's name in the email if you know it.
