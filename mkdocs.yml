@@ -1,36 +1,27 @@
 site_name: UCL Department of Physics and Astronomy
-site_url: https://uclphysast.github.io/
-site_author: UCL Physics and Astronomy Computing Team
-site_description: Documentation for the Department of Physics and Astronomy Computing services at UCL.
-
 theme:
   name: material
-  copyright: Copyright &copy; 2025 UCL Department of Physics and Astronomy
-  repo_url: https://github.com/UCLPhysAst/uclphysast.github.io
+copyright: Copyright &copy; 2025 UCL Department of Physics and Astronomy
+repo_url: https://github.com/UCLPhysAst/uclphysast.github.io
 
-  nav:
-    - Home:   index.md
-    - Research Groups:
-      - AMOPP:  amopp/index.md
-      - Astro:  astro/index.md
-      - BioP:   biop/index.md
-      - CMMP:   cmmp/index.md
-      - HEP:    hep/index.md
-    - Teaching and Learning:
-      - Teaching Labs: teaching/labs.md
-      - UCL Observatory: teaching/uclo.md
-    - Professional Services:  ps/index.md
-    - Clusters:
-      - Home: clusters/index.md
-      - DIAS: clusters/dias.md
-      - Hypatia:  clusters/hypatia.md
-      - Research group clusters: clusters/group.md
-      - UCL clusters: clusters/arc.md
-    - AV and Meetings: av/index.md
-    - Guides and Training: training/index.md 
-    - Contacts: contacts.md
-
-  markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
+nav:
+  - Home:   index.md
+  - Research Groups:
+    - AMOPP:  amopp/index.md
+    - Astro:  astro/index.md
+    - BioP:   biop/index.md
+    - CMMP:   cmmp/index.md
+    - HEP:    hep/index.md
+  - Teaching and Learning:
+    - Teaching Labs: teaching/labs.md
+    - UCL Observatory: teaching/uclo.md
+  - Professional Services:  ps/index.md
+  - Clusters:
+    - Home: clusters/index.md
+    - DIAS: clusters/dias.md
+    - Hypatia:  clusters/hypatia.md
+    - Research group clusters: clusters/group.md
+    - UCL clusters: clusters/arc.md
+  - AV and Meetings: av/index.md
+  - Guides and Training: training/index.md 
+  - Contacts: contacts.md
