@@ -1,3 +1,11 @@
+---
+title: Amopp
+categories:
+ -
+layout: docs
+icon: material/ghost
+---
+
 # Computing Guides and Training
 
 This page provides a list of resources that may be useful in learning some of the general concepts and skills that you may need in your computational work.

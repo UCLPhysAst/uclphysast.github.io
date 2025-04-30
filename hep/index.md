@@ -1,3 +1,7 @@
+---
+icon: material/flash-alert
+---
+
 # High-Energy Physics (HEP)
 
 Information for members of the HEP group can be found on the [HEP Computing Wiki](https://www.hep.ucl.ac.uk/twiki/bin/view/Computing). If you don't already have access you should click `TWikiRegistration` on the login page and fill in the registration form, including:
