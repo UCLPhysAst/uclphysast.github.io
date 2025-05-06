@@ -22,6 +22,11 @@ General User Information:
 
 Storage [Storage](Theory/storage-map.md)
 
+## How to...
+
+- [How To](/docs/amopp/howto.md)
+
+
 ## Support
 
 !!! Please ensure to include your research group or your PI's name in the email if you know it.
