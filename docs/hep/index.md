@@ -4,3 +4,5 @@ Information for members of the HEP group can be found on the [HEP Computing Wiki
 
 - your UCL e-mail address if you have one;
 - a brief statement of your role and/or supervisor in the "comment" field so we know you are part of the HEP group.
+
+For IT support in the HEP group please e-mail support@hep.ucl.ac.uk.
