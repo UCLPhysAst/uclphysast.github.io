@@ -26,6 +26,7 @@ In case the facility becomes oversubscribed, a small users’ committee will det
 For new users, training, and early development, other resources are more appropriate. 
 
 In case the facility becomes oversubscribed, a small users’ committee will determine resource allocation, prioritising against the use cases given in the initial RCIF bid. The users’ committee will consist of
+
 - Benjamin Joachimi (chair)
 - Edd Edmondson (technical lead)
 - Giovanna Tinetti (Group A rep)
@@ -79,6 +80,7 @@ If you are unfamiliar with HPC environments and using batch submissions to run t
 
 ### Job submission
 Partition (Queue) names:
+
 - RCIF (RCIF 40 core nodes)
 - COMPUTE (all cosmoparticle nodes)
 - CORES24 (cosmoparticle 24 core nodes)
@@ -87,6 +89,7 @@ Partition (Queue) names:
 - SMP (cosmoparticle 60+80 core nodes)
 
 Useful links:
+
 - Slurm manual: [https://slurm.schedmd.com](https://slurm.schedmd.com)
 - Slurm at COSMA (Durham, DiRAC): [https://www.dur.ac.uk/icc/cosma/support/slurm/](https://www.dur.ac.uk/icc/cosma/support/slurm/)
 - Slurm cheatsheet: [https://slurm.schedmd.com/pdfs/summary.pdf](https://slurm.schedmd.com/pdfs/summary.pdf)
@@ -127,6 +130,7 @@ The very fast NVMe storage is available per node in /state/partition1, with 15TB
 For information on running containers (e.g. to use Tensorflow on the GPUs) please see [Containers and Tensorflow-GPU usage on clusters](https://liveuclac.sharepoint.com/sites/PhysAstAstPhysGrp/SitePages/PhysAstAstPhysGrp-Containers-and-Tensorflow-GPU-usage-on-clusters-125937485.aspx).
 
 ### Example job
+
 ```
 #!/bin/bash
 #SBATCH -p GPU
