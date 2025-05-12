@@ -6,7 +6,7 @@ layout: docs
 icon: material/ghost
 ---
 
-!!! Please ensure you have an account. To request an account, please follow the instructions here [Getting an Account](account-services.md).
+!!! Please ensure you have an account. To request an account, please follow the instructions here [Getting an Account](/docs/amopp/Theory/account-services.md).
 
 # Remote Access to Cluster Resources
 

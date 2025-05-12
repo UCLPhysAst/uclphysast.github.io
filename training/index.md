@@ -3,7 +3,6 @@ title: Amopp
 categories:
  -
 layout: docs
-icon: material/ghost
 ---
 
 # Computing Guides and Training

@@ -19,7 +19,7 @@ Logging in is most straightforward if you are inside the UCL firewall. If you ar
 Use the terminal and type the below command to secure shell (ssh) into the machine you wish to access. Replace `<username>` with your username, and `<node>` with the name of the machine you want to log in to, eg. `angus`, `zed`, `butch`. 
 
 ```
-ssh <your_UCL_user_id>@<node>.rc.ucl.ac.uk
+ssh <username>@<node>.theory.phys.ucl.ac.uk
 ```
 
 ### Windows
@@ -37,7 +37,7 @@ You will need to create an entry for the host you are connecting to with the set
 
 ![PuTTY screenshot](/docs/amopp/assets/putty_gui.png)
 
-You will then be asked to enter your username and password. Only enter your username, not `@<node>.rc.ucl.ac.uk`. The password field will remain entirely blank when you type in to it - it does not show placeholders to indicate you have typed something. 
+You will then be asked to enter your username and password. Only enter your username, not `@<node>.theory.phys.ucl.ac.uk`. The password field will remain entirely blank when you type in to it - it does not show placeholders to indicate you have typed something. 
 
 The first time you log in to a new server, you'll get a popup telling you that the server's host 
 key is not cached in the registry - this is normal and is because you have never connected to
@@ -266,10 +266,10 @@ Host zed
 Host butch
    User ccxxxxx
    HostName butch.theory.phys.ucl.ac.uk
-   proxyCommand ssh -W butch.rc.ucl.ac.uk:22 <username>@ssh0.theory.phys.ucl.ac.uk
+   proxyCommand ssh -W butch.theory.phys.ucl.ac.uk:22 <username>@ssh0.theory.phys.ucl.ac.uk
 ```
 
-You can now just type `ssh ssh0` or `scp file1 butch:~` and you will go through the Gateway. You'll be asked for login details twice since you're logging in to two machines, a Gateway server and your endpoint.  
+You can now just type `ssh ssh0` or `scp file1 ssh0:~` and you will go through the Gateway. You'll be asked for login details twice since you're logging in to two machines, a Gateway server and your endpoint.  
 
 #### Windows - WinSCP
 
@@ -316,7 +316,7 @@ something could be launched on that port on Angus and your browser could be poin
 
 ```
 # replace ccxxxxx with your UCL username
-ssh -L 3333:angus.rc.ucl.ac.uk:3333 <username>@ssh0.theory.phys.ucl.ac.uk
+ssh -L 3333:angus.theory.phys.ucl.ac.uk:3333 <username>@ssh0.theory.phys.ucl.ac.uk
 ```
 
 Do not leave things like this running for long periods on the login nodes.

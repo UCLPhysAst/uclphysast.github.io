@@ -4,8 +4,6 @@ icon: material/ghost
 
 ### Atomic, Molecular, Optical and Positron Physics (AMOPP)
 
-!!! More information coming soon.
-
 This documentation is maintained by the AMOPP Computing Group for the purpose of sharing information about our services, including user guides,
 service updates and account request.
 
@@ -13,19 +11,17 @@ service updates and account request.
 
 General User Information:
 
-- [Getting an Account](account-services.md)
-- [Getting Started](/docs/amopp/Theory/getting-started.md)
-
+- [Getting an Account](/docs/amopp/Theory/account-services.md)
 - [Software List](Cluster/Theory/software-list.md)
 - [Planned Outages](planned-outages.md)
 
 
-Storage [Storage](Theory/storage-map.md)
-
 ## How to...
 
-- [How To](/docs/amopp/howto.md)
+- [How To...](/docs/amopp/howto.md)
 
+## Explained
+- Storage Spaces [Storage](Theory/storage-map.md)
 
 ## Support
 
