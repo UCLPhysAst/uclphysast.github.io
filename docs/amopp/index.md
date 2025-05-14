@@ -1,5 +1,5 @@
 ---
-icon: material/ghost
+title: Amopp
 ---
 
 ### Atomic, Molecular, Optical and Positron Physics (AMOPP)
