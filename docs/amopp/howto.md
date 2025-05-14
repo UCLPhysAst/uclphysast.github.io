@@ -362,7 +362,7 @@ from there to Angus.
 <!-- ## How can I see what types of node a cluster has? -->
 
 <!-- As well as looking at the cluster-specific page in this documentation for more details (for example 
-[Myriad](Clusters/Myriad.md)), you can run `nodetypes`, which will give you basic information about 
+[Myriad](../clusters/clusters/Myriad.md)), you can run `nodetypes`, which will give you basic information about 
 the nodes that exist in that cluster.
 
 ```
