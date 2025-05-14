@@ -11,17 +11,18 @@ service updates and account request.
 
 General User Information:
 
-- [Getting an Account](/docs/amopp/Theory/account-services.md)
-- [Software List](Cluster/Theory/software-list.md)
-- [Planned Outages](planned-outages.md)
+- [Getting an Account](account-services.md)
+- [Software List](theory/software-list.md)
+- [Planned Outages](theory/planned-outages.md)
 
 
-## How to...
+## Walkthroughs...
 
-- [How To...](/docs/amopp/howto.md)
+- [How To...](howto.md)
 
 ## Explained
-- Storage Spaces [Storage](Theory/storage-map.md)
+- Storage - Visualized [Storage](storage/storage-map.md)
+- Storage Types [Storage](storage/storage-map.md)
 
 ## Support
 
