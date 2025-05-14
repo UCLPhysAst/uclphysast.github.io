@@ -5,7 +5,8 @@ categories:
 layout: docs
 ---
 
-!!! Please ensure you have an account. To request an account, please follow the instructions here [Getting an Account](account-services.md).
+!!! important
+    Please ensure you have an account. To request an account, please follow the instructions here [Getting an Account](account-services.md).
 
 # Remote Access to Cluster Resources
 
