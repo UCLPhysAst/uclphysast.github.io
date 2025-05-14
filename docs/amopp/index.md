@@ -19,7 +19,7 @@ General User Information:
 - [Remote Access](remote-access.md)
 - [Software List](theory/software-list.md)
 - [Storage Explained](storage/index.md)
-- [Storage - Visualised](storage-map.md)
+- [Storage - Visualised](theory/storage-map.md)
 
 <!-- - [Planned Outages](theory/planned-outages.md) -->
 

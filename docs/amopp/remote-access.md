@@ -1,7 +1,6 @@
 ---
 title: Remote Access
 layout: docs
-icon: material/ghost
 ---
 
 # Remote Access to Research Computing Resources

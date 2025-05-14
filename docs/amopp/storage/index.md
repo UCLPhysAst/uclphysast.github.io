@@ -8,4 +8,4 @@ There are five types of storage for use on all nodes except for gateway nodes, s
 ### [Scratch](scratch.md)
 ### [Void Store](void.md)
 ### [Silos](silos.md)
-### [Projects Folder (Project Moon)](moon.md)
+### [Projects Folder ](moon.md)
