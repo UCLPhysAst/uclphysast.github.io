@@ -359,29 +359,6 @@ ftp servername.ac.uk
 You can then use `put` and `get` commands to put data on the remote FTP server or download it
 from there to Angus. 
 
-<!-- ## How can I see what types of node a cluster has? -->
-
-<!-- As well as looking at the cluster-specific page in this documentation for more details (for example 
-[Myriad](../clusters/clusters/Myriad.md)), you can run `nodetypes`, which will give you basic information about 
-the nodes that exist in that cluster.
-
-```
-[uccacxx@login12 ~]$ nodetypes
-    3 type * nodes: 36 cores, 188.4G RAM
-    7 type B nodes: 36 cores,   1.5T RAM
-   66 type D nodes: 36 cores, 188.4G RAM
-    9 type E nodes: 36 cores, 188.4G RAM
-    1 type F nodes: 36 cores, 188.4G RAM
-   55 type H nodes: 36 cores, 188.4G RAM
-    3 type I nodes: 36 cores,   1.5T RAM
-    2 type J nodes: 36 cores, 188.4G RAM
-``` -->
-
-<!-- This shows how many of each letter-labelled nodetype the cluster has, then the number of cores 
-and amount of memory the node is reporting it has. It also shows the cluster has some utility 
-nodes - those are part of the infrastructure. The `*` nodes are the login nodes. -->
-
-
 ## How do I run a graphical program?
 
 To run a graphical program on the cluster and be able to view the user interface on your own 

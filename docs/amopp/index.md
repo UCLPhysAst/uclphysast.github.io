@@ -18,7 +18,7 @@ General User Information:
 ## Cluster Information
 - [Remote Access](remote-access.md)
 - [Software List](theory/software-list.md)
-- [Storage Explained](storage/)
+- [Storage Explained](storage/index.md)
 - [Storage - Visualised](storage-map.md)
 
 <!-- - [Planned Outages](theory/planned-outages.md) -->
