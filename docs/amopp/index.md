@@ -30,7 +30,8 @@ General User Information:
 
 ## Support
 
-!!! Please ensure to include your research group or your PI's name in the email if you know it.
+!!! important
+    Please ensure to include your research group or your PI's name in the email if you know it.
 
 For support for any of our services or to report a problem with any of our computing platforms, contact us at: [physics-amopp-it@ucl.ac.uk](mailto:physics-amopp-it@ucl.ac.uk)
 
