@@ -40,7 +40,7 @@ You will then be asked to enter your username and password. Only enter your user
 
 The first time you log in to a new server, you'll get a popup telling you that the server's host 
 key is not cached in the registry - this is normal and is because you have never connected to
-this server before. If you want to, you can check the host fingerprint against [our current key fingerprints](extra/Hostkeys.md).
+this server before. If you want to, you can check the host fingerprint against [our current key fingerprints](extras/Hostkeys.md).
 
 ### Logging in from outside the UCL firewall
 
@@ -71,7 +71,7 @@ This helps make sure you are connecting directly to the server you think you are
 warnings to show up if the host key on that machine has genuinely changed (usually because of an 
 update or reinstall).
 
-Check the host key warning against [our current key fingerprints](extra/Hostkeys.md):
+Check the host key warning against [our current key fingerprints](extras/Hostkeys.md):
 
 The error message looks like this if you are using OpenSSH in a terminal:
 ```
