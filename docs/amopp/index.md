@@ -12,17 +12,21 @@ service updates and account request.
 General User Information:
 
 - [Getting an Account](account-services.md)
-- [Software List](theory/software-list.md)
-- [Planned Outages](theory/planned-outages.md)
+- [Getting started](getting-started.md)
 
+
+## Cluster Information
+- [Remote Access](remote-access.md)
+- [Software List](theory/software-list.md)
+- [Storage - Visualized](storage-map.md)
+- [Storage Types](storage-map.md)
+
+<!-- - [Planned Outages](theory/planned-outages.md) -->
 
 ## Walkthroughs...
 
 - [How To...](howto.md)
 
-## Explained
-- Storage - Visualized [Storage](storage/storage-map.md)
-- Storage Types [Storage](storage/storage-map.md)
 
 ## Support
 
