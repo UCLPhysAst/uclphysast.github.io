@@ -23,5 +23,6 @@ nav:
     - Research group clusters: clusters/group.md
     - UCL clusters: clusters/arc.md
   - AV and Meetings: av/index.md
+  - Software Licences: software.md
   - Guides and Training: training/index.md 
   - Contacts: contacts.md
