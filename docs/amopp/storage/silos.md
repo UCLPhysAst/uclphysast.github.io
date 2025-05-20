@@ -3,7 +3,6 @@ title: Silo Storage
 categories:
  -
 layout: docs
-icon: material/ghost
 ---
 
 ### Silo Storage

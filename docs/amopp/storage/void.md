@@ -3,7 +3,6 @@ title: Void Storage
 categories:
  -
 layout: docs
-icon: material/ghost
 ---
 
 ### Void Storage
