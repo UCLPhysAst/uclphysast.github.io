@@ -5,7 +5,7 @@ categories:
 layout: docs
 ---
 
-### Void Storage
+# Void Storage
 
 This will /nfs/void.
 

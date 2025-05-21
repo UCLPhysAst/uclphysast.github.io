@@ -5,7 +5,7 @@ categories:
 layout: docs
 ---
 
-### Silo Storage
+# Silo Storage
 
 Silo will be available at /nfs/silo.
 
