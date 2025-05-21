@@ -12,12 +12,6 @@ There are five types of storage for use on all nodes except for gateway nodes (s
 
 ???+ Home Directory
 
-    | :Attributes:     |                          |
-    | :---------:      | :----------------------: |
-    | `Location`       | :'/home/<username>':     |
-    | `Network Aware`  | :material-checkbox-marked-circle-outline: |
-    | `Redundancy`     | :material-checkbox-marked-circle-outline: |
-
     Located in /home/<username>
 
     This directory is your home folder. All your user files, personal settings, customizations will be saved in this folder. This folder is network aware and will travel with you regardless of which node you connect to.
@@ -27,12 +21,6 @@ There are five types of storage for use on all nodes except for gateway nodes (s
 
 
 ???+ Scratch
-
-    | :Attributes:     |                  |
-    | :---------:      | :--------------: |
-    | `Location`       | :'/scratch':     |
-    | `Network Aware`  | :negative_squared_cross_mark: |
-    | `Redundancy`     | :negative_squared_cross_mark: |
 
     Located in /scratch
 
@@ -44,25 +32,12 @@ There are five types of storage for use on all nodes except for gateway nodes (s
 
 ???+ Void Store
 
-    | :Attributes:     |                   |
-    | :---------:      | :---------------: |
-    | `Location`       | :'/nfs/void':     |
-    | `Network Aware`  | :material-checkbox-marked-circle-outline: |
-    | `Redundancy`     | :negative_squared_cross_mark: |
-    
-
     Located in /nfs/void
 
     This will act as network based scratch storage. This space has very little redundancy and will act as a funnel for data removed from node scratch space. Data will stored for a minimum of six (6) months before it flagged for deletion.
 
 
 ???+ Silos
-
-    | :Attributes:     |                   |
-    | :---------:      | :---------------: |
-    | `Location`       | :'/nfs/silo':     |
-    | `Network Aware`  | :material-checkbox-marked-circle-outline: |
-    | `Redundancy`     | :material-checkbox-marked-circle-outline: |
 
     Located in /nfs/silo
 
