@@ -15,13 +15,13 @@ nav:
   - Teaching and Learning:
     - Teaching Labs: teaching/labs.md
     - UCL Observatory: teaching/uclo.md
-  - Professional Services:  ps/index.md
   - Clusters:
     - Home: clusters/index.md
     - DIAS: clusters/dias.md
     - Hypatia:  clusters/hypatia.md
     - Research group clusters: clusters/group.md
     - UCL clusters: clusters/arc.md
+  - Printing and Scanning: printing.md
   - AV and Meetings: av/index.md
   - Software Licences: software.md
   - Guides and Training: training/index.md 
