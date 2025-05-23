@@ -26,3 +26,13 @@ nav:
   - Software Licences: software.md
   - Guides and Training: training/index.md 
   - Contacts: contacts.md
+
+markdown_extensions:
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences:
+        custom_fences:
+          - name: mermaid
+            class: mermaid
+            format: !!python/name:pymdownx.superfences.fence_code_format
+    - tables
