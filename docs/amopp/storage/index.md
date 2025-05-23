@@ -12,12 +12,12 @@ There are five types of storage for use on all nodes except for gateway nodes (s
 
 ???- "Home Directory"
 
-    Located in /home/<username>
+    Located in /home/{username}
 
     This directory is your home folder. All your user files, personal settings, customizations will be saved in this folder. This folder is network aware and will travel with you regardless of which node you connect to.
 
     !!! warning
-        Do not store personal files (non work/research related content) on these systems such as your music, personal photos/videos etc.
+        Do not store personal files (non-work/research related content) on these systems such as your music, personal photos/videos etc.
 
 
 ???- "Scratch"
