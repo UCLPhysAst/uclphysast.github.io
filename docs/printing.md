@@ -2,8 +2,16 @@
 
 There are various multifunction devices (MFDs) around the department that can be used to print, copy and scan documents. They are available through the [Print@UCL](https://www.ucl.ac.uk/isd/services/print-copy-scan-services) service.
 
-Devices are available on each floor of the Physics Building:
+Devices are available on each floor of the Physics Building
 
-- in the mail room on the ground floor (E);
-- in the print room next to the list on A floor;
-- in the corridor on floors D to B.
+- in the mail room on the ground floor (E)
+- in the print room next to the list on A floor
+- in the corridor on floors D to B
+
+in the North West Wing
+
+- room 223
+- Lewis's Building 3rd floor
+- Lewis's Building 4th floor
+
+and in the Cosmoparticle Hub (KLB G23).
