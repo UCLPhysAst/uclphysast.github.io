@@ -17,7 +17,7 @@ General User Information:
 
 ## Cluster Information
 - [Remote Access](remote-access.md)
-- [Software List](theory/software-list.md)
+<!-- - [Software List](theory/software-list.md) -->
 - [Storage Explained](storage/index.md)
 - [Storage - Visualised](theory/storage-map.md)
 
