@@ -1,6 +1,6 @@
 # High-Energy Physics (HEP)
 
-For IT support in the HEP group please e-mail <a href="mailto:support@hep.ucl.ac.uk">support@hep.ucl.ac.uk</a>.
+For IT support in the HEP group please e-mail [support@hep.ucl.ac.uk](mailto:support@hep.ucl.ac.uk).
 
 ## HEP computing information
 
@@ -11,7 +11,7 @@ Information for members of the HEP group can be found on the [HEP Computing Wiki
 
 ## New accounts
 
-To request a new account, e-mail <a href="mailto:support@hep.ucl.ac.uk">support@hep.ucl.ac.uk</a> stating:
+To request a new account, e-mail [support@hep.ucl.ac.uk](mailto:support@hep.ucl.ac.uk) stating:
 
 - the full name and e-mail address of the person needing the account;
 - the role of the account holder (e.g. new academic or postdoc, PhD student, project or summer student);
