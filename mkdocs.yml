@@ -15,6 +15,7 @@ nav:
   - Teaching and Learning:
     - Teaching Labs: teaching/labs.md
     - UCL Observatory: teaching/uclo.md
+    - Linux clusters: teaching/linux.md
   - Clusters:
     - Home: clusters/index.md
     - DIAS: clusters/dias.md
