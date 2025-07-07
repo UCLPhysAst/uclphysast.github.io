@@ -26,6 +26,8 @@ nav:
   - Printing and Scanning: printing.md
   - AV and Meetings: av/index.md
   - Software Licences: software.md
+  - How to:
+    - Finding the hardware UUID: howto/hardware-uuid.md
   - Guides and Training: training/index.md 
   - Contacts: contacts.md
 
