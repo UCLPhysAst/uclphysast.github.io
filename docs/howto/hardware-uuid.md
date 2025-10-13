@@ -6,7 +6,7 @@ In order to help us identify and locate any device that is flagged for investiga
 
 Open the “Terminal” app (or open “Command Prompt” and then type `powershell`) and then run the following PowerShell command:
 ```
-Type Get-CimInstance -ClassName Win32_ComputerSystemProduct | Select-Object -Property UUID
+Get-CimInstance -ClassName Win32_ComputerSystemProduct | Select-Object -Property UUID
 ```
 
 ## macOS
