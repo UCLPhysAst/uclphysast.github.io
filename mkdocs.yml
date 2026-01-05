@@ -27,6 +27,7 @@ nav:
   - AV and Meetings: av/index.md
   - Software Licences: software.md
   - How to:
+    - Connect remotely to UCL systems: howto/remote-connection.md
     - Finding the hardware UUID: howto/hardware-uuid.md
   - Guides and Training: training/index.md 
   - Contacts: contacts.md
