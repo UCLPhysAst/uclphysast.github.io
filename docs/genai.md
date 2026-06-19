@@ -32,6 +32,11 @@ The full [Microsoft 365 Copilot](https://liveuclac.sharepoint.com/sites/CopilotM
 
 [Microsoft 365 Copilot Agents](https://support.microsoft.com/en-us/topic/get-started-with-agents-in-the-microsoft-365-copilot-app-943e563d-602d-40fa-bdd1-dbc83f582466) are customized chat interfaces that you can create for specific tasks. Limited functionality is available through the [Microsoft 365 Copilot](https://m365.cloud.microsoft/chat) Chat interface, with additional features available if you have a Microsoft 365 Copilot licence.
 
+### GitHub Copilot
+
+The rules have changed several times, but you may be able to get [free access to GitHub Copilot Pro](https://docs.github.com/en/copilot/how-tos/copilot-on-github/set-up-copilot/enable-copilot/set-up-for-teachers-and-os-maintainers
+) by becoming a verified teacher on GitHub Education.
+
 ### Studiosity
 
 [Studiosity](https://liveuclac.sharepoint.com/sites/StudiosityResourceCentre) is a more specific service to “support students with their academic writing and referencing skills” by automatically generating feedback on writing and referencing. It is available without charge to students and staff.
