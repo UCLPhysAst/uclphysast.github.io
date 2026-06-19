@@ -11,6 +11,7 @@ In addition to the open-source software available on the department's Linux clus
 - CAD Import Module (1 concurrent user)
 - Material Library (1 concurrent user)
 - Heat Transfer Module (1 concurrent user)
+- Semiconductor Module (1 concurrent user)
 
 Because this software is limited (because of its cost) to two concurrent users, we do not include full instructions here but you should contact Ben or Fahad at [physast.itsupport@ucl.ac.uk](mailto:physast.itsupport@ucl.ac.uk) if you would like access. You should also close the application when not actively using it so that someone else can use the licence.
 
